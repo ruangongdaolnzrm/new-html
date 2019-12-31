@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body li{
+	display:inline;	
+	font-size:67px;
+	font-family:"楷体";
+	font-weight:bold;
+	color:#06C4F5;
+	letter-spacing:10px;
+}
+body li.b11
+{
+	position: absolute;
+  left:250px;
+  top:390px;	
+}
+body li.b12
+{
+	position: absolute;
+  left:630px;
+  top:100px;	
+}
+body li.b13
+{
+	position: absolute;
+  left:870px;
+  top:410px;
+	letter-spacing:-10px;	
+}
+body li.return a{
+  position:absolute;
+  left:35px;
+  top:570px;
+	display: block;
+	font-family:"Bodoni MT Black";
+	font-size:35px;
+}
